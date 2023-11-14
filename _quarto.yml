@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "delia_abundance_pub"
+  title: "Seedcorn maggot complex abundance in Québec, Canada"
   navbar:
     left:
       - href: index.qmd
